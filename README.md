@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/francofrijolish/PROYECTO_FINAL.git)
+[Live Demo Link](https://francofrijolish.github.io/PROYECTO_FINAL/)
 
 
 ## Getting Started
